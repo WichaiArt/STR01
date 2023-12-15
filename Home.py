@@ -14,7 +14,7 @@ with col2:
     st.image('./img/iris.jpg')
 
 html_1 = """
-<div style="background-color:#52BE80;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
+<div style="background-color:#FFD233;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
 <center><h5>สถิติข้อมูลดอกไม้</h5></center>
 </div>
 """
