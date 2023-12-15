@@ -1,3 +1,6 @@
+import json
+from streamlit_lottie import st_lottie
+
 import streamlit as st
 
 st.title('การทดสอบเขียนเว็บด้วย Python')
