@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.header('wichia Thongprao')
+st.header('Wichai Thongprao')
